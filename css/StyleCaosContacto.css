@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(83, 113, 138);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+p{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+li{
+    padding: 5px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
